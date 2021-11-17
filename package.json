@@ -1,0 +1,17 @@
+{
+  "name": "timezone-converter",
+  "version": "0.0.1",
+  "description": "A utility package to convert timezones.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "timezone",
+    "convert",
+    "tz",
+    "conversion"
+  ],
+  "author": "grook8958",
+  "license": "ISC"
+}
